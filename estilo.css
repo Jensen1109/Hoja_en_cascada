@@ -1,0 +1,179 @@
+/* h1{
+    color: aqua;
+} */
+/* div{
+    border: 1px solid #000;
+    border-left: 1px solid red;
+    border-top-style: dotted;
+    border-radius: 20px ;
+    background-color: yellowgreen;
+    box-shadow: 4px 4px 8px #000;
+} */
+
+/* div p{
+    padding: 10px
+}
+
+button{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-color:red ;
+    border-radius: 100px;
+}
+.texto{
+    color: hsl(green, 20%, 15%);
+    color:hsla(blue, 4%, 10%, alpha);
+}    */
+
+/* 
+.background-image{
+    background-image: url(/imagenes/mt-09-sp-2024-11-1024x576.jpg);
+    background-attachment: scroll;
+    width: 600px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;    
+    margin: 0;
+    border: solid;
+    border-color: red;
+    
+    
+} */
+/* body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    height: 500vh;
+} */
+/* .gradiante{
+    width: 600px;
+    height: 200px;
+    background:linear-gradient(blue, red,green);
+
+} */
+ .uno{
+    text-align: center;
+    font-size: 25px;
+ }
+ .borderradius{
+   
+    background-position: center;
+    border: 5px solid blue;
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+    margin: 0 auto;
+
+ }
+ .segundo{
+    text-align: center;
+    font-size: 25px;
+ }
+ .shadow{
+    background-position: center;
+    box-shadow: 10px 10px 8px black; 
+    background-color: grey;
+    height: 150px;
+    width: 200px;  
+    margin: 0 auto;
+ }
+
+ .Tercero{
+    text-align: center;
+    font-size: 25px;
+ }
+
+ .Hexadecimal{
+    background-position: center;
+    background-color: yellowgreen;
+    height: 150px;
+    width: 200px;  
+    margin: 0 auto;
+    padding: 5px;
+ }
+ .Hexadecimaldos{
+    background-position: center;
+    background-color: red;
+    height: 150px;
+    width: 200px;  
+    margin: 0 auto;
+    padding: 5px;
+ }
+ .Hexadecimaltres{
+    background-position: center;
+    background-color: blue;
+    height: 150px;
+    width: 200px;  
+    margin: 0 auto;
+    padding: 5px;
+
+ }
+ .cuatro{
+    text-align: center;
+    font-size: 25px;
+ }
+
+ .HSL{
+    background-position: center;
+    background-color: hsl(255, 5%, 10%);
+    height: 150px;
+    width: 200px;  
+    margin: 0 auto;
+ }
+ .cinco{
+    text-align: center;
+    font-size: 25px;
+ }
+ .RBGA{
+    background-position: center;
+    background-color: rgba(215, 5, 10, 1);
+    height: 150px;
+    width: 200px;  
+    margin: 0 auto
+ }
+ .RBG{
+    background-position: center;
+    background-color: rgb(100, 255, 150);
+    height: 150px;
+    width: 200px;  
+    margin: 0 auto
+ }
+
+ .Seis{
+    text-align: center;
+    font-size: 25px;
+ }
+.image{
+    background-image: url(/imagenes/mt-09-sp-2024-11-1024x576.jpg);
+    height: 150px;
+    width: 200px;
+    background-position: center;
+    margin: 0 auto  ;
+    background-size: cover;
+}
+.ocho{
+    text-align: center;
+    font-size: 25px;
+ }
+.Attachment{
+    background-image: url(/imagenes/GR19V7816-backdrop_wide.avif);
+    background-attachment: fixed;
+    width: 1200px;
+    height: 600px;
+    background-size: cover;
+    background-position: center;    
+    margin: 10px auto;
+    border: solid;
+    
+}
+.nueve{
+   text-align: center;
+    font-size: 25px;
+}
+
+.Gradiante{width: 600px;
+height: 200px;
+background:linear-gradient(blue, red,green);
+margin: 0 auto;
+}
+
+ 
